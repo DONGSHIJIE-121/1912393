@@ -1,6 +1,6 @@
 # PANoptosis-associated transcriptomic analysis in sarcopenia
 
-This repository contains the streamlined R workflows used for the central computational analyses in the manuscript. The scripts retain data import, preprocessing, core statistical analysis, feature prioritization, and result export. Trial code, local absolute paths, and figure-color tuning have been removed.
+This repository contains the streamlined R workflows used for the central computational analyses in the manuscript. 
 
 ## Repository structure
 
